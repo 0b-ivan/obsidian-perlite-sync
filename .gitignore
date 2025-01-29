@@ -1,0 +1,10 @@
+# System-Dateien
+.DS_Store
+Thumbs.db
+
+# Sensible Daten (falls notwendig)
+.env
+secrets.json
+
+# Docker spezifische Dateien
+docker-compose.override.yml
